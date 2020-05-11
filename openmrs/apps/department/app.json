@@ -1,0 +1,10 @@
+{
+        "id": "bahmni.department",
+        "extensionPoints": [
+            {
+                "id": "org.bahmni.department",
+                "description": "Bahmni Department Page"
+            }
+        ]
+
+}

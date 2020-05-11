@@ -1,0 +1,10 @@
+{
+    "list":{
+        "id": "bahmni.department.create",
+        "extensionPointId": "org.bahmni.department",
+        "type": "link",
+        "extensionParams": {
+        },
+        "requiredPrivilege": "Manage Department"
+    }
+}

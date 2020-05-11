@@ -129,12 +129,12 @@
     "order": 14,
     "requiredPrivilege": "app:appointments"
   },
-  "depmodule": {
-    "id": "bahmni.depmodule",
+  "department": {
+    "id": "bahmni.department",
     "extensionPointId": "org.bahmni.home.dashboard",
     "type": "link",
     "translationKey": "MODULE_LABEL_DEPMODULE_KEY",
-    "url": "../departments",
+    "url": "../department/#/create",
     "icon": "fa fa-user",
     "order": 14,
     "requiredPrivilege": "Manage Department"
