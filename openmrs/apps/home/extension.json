@@ -134,7 +134,7 @@
     "extensionPointId": "org.bahmni.home.dashboard",
     "type": "link",
     "translationKey": "MODULE_LABEL_DEPMODULE_KEY",
-    "url": "../department/#/create",
+    "url": "../department",
     "icon": "fa fa-user",
     "order": 14,
     "requiredPrivilege": "Manage Department"
