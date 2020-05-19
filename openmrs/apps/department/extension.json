@@ -1,6 +1,6 @@
 {
     "list":{
-        "id": "bahmni.department.create",
+        "id": "bahmni.department.list",
         "extensionPointId": "org.bahmni.department",
         "type": "link",
         "extensionParams": {
