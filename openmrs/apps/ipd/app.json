@@ -302,6 +302,16 @@
                     }
                 }
             }
-        }
+        },
+        "colorForTags": [
+            {
+                "name": "Isolation",
+                "color": "pink"
+            },
+            {
+                "name": "Lost",
+                "color": "blue"
+            }
+        ]
     }
 }
